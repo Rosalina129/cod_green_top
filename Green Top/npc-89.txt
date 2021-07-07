@@ -1,0 +1,15 @@
+gfxwidth=48
+gfxheight=48
+frames=8
+framestyle=3
+width=48
+height=48
+nogravity=1
+spinjump=0
+jumphurt=1
+waterjumphurt=1
+spinjumphurt=1
+yoshihurt=0
+shoehurt=0
+nohurt=1
+scripts=warpbox_normal

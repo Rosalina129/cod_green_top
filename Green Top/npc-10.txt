@@ -1,0 +1,5 @@
+gfxwidth=32
+gfxsplitheight=256
+frames=8
+framespeed=3
+width=32

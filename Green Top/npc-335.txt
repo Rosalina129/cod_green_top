@@ -1,0 +1,4 @@
+gfxwidth=38
+gfxheight=56
+frames=4
+scripts=##new script 2
