@@ -1,3 +1,4 @@
 gfxwidth=16
 gfxheight=16
+gfxsplitheight=16
 frames=1
