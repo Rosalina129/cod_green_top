@@ -1,0 +1,6 @@
+gfxwidth=32
+gfxsplitheight=256
+frames=8
+framespeed=6
+width=32
+scripts=##gamecoin
