@@ -1,0 +1,15 @@
+gfxwidth=32
+gfxheight=32
+gfxsplitheight=256
+frames=8
+framespeed=6
+width=32
+playerblock=0
+playerblocktop=0
+npcblock=0
+npcblock1=0
+npcblocktop=0
+noblockcollision=1
+nonpccollision=1
+nohurt=1
+scripts=crystalorb

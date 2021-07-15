@@ -1,0 +1,10 @@
+gfxwidth=224
+gfxheight=96
+frames=1
+width=224
+height=96
+nogravity=1
+playerblock=0
+playerblocktop=0
+noblockcollision=1
+nonpccollision=1
